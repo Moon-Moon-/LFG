@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">LFG</string>
+
+    <!-- Activity -->
+
+    <string name="a_subtitle">Subtitle:</string>
+    <string name="a_text">This is some text</string>
+
+    <string name="i_user_name">User Name</string>
+
+
+    <string name="t_preference_file_key">com.lfg.app.PREFERENCE_FILE_KEY</string>
+    <string name="t_is_logged_in">com.lfg.app.PREFERENCE_FILE_KEY</string>
+
+</resources>

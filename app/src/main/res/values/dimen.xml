@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="a_subtitle">12sp</dimen>
+    <dimen name="a_text">16sp</dimen>
+
+    <dimen name="i_user_image">48dp</dimen>
+
+    <dimen name="n_padding">16dp</dimen>
+
+
+</resources>
