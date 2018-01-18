@@ -8,5 +8,6 @@
 
     <dimen name="n_padding">16dp</dimen>
 
+    <dimen name="list_padding">1dp</dimen>
 
 </resources>

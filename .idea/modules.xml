@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LFG.iml" filepath="$PROJECT_DIR$/LFG.iml" />
+      <module fileurl="file://C:\Users\sevyr\AndroidstudioProjects\LFG\LFG.iml" filepath="C:\Users\sevyr\AndroidstudioProjects\LFG\LFG.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sevyr\AndroidstudioProjects\LFG\app\app.iml" filepath="C:\Users\sevyr\AndroidstudioProjects\LFG\app\app.iml" />
     </modules>
   </component>
 </project>

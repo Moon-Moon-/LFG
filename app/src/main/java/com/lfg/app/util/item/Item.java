@@ -9,7 +9,7 @@ import org.json.JSONObject;
  * Created by LFG on 10/5/2017.
  */
 
-abstract class Item {
+public abstract class Item {
 
     // ============================================================================= \\
     // VARIABLES
